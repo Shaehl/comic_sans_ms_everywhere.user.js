@@ -8,7 +8,7 @@ document.head.innerHTML += `\n<style>*{font-family: "Comic Sans MS", "Comic Sans
 
 ## Installation
 ### Install the Userscript
-  - [Userscript from GitHub](https://github.com/Shaehl/comic-sans-ms-everywhere/raw/main/csmse.user.js)
+  - [Userscript from GitHub](https://github.com/iulh/comic-sans-ms-everywhere/raw/main/csmse.user.js)
 
 ### Install the Userscript Manager
   - [Violentmonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
